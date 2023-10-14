@@ -1,4 +1,4 @@
-
+//Currying transforms a function that takes multiple parameters into a chain of functions, each taking a single parameter. 
 object currying {
   def main(args: Array[String]){
     val str1:String = "Hello"
